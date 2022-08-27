@@ -4,10 +4,13 @@
 
 <a href="https://github.com/Sphinxroot/Test-TV/blob/main/FrancaisINT.md"><img src="https://i.imgur.com/Fs4XCXE.png" title="Francais International">
 
+
 ## ★★★★★Actualités★★★★★
 <a href="https://www.youtube.com/channel/UC25EuGAePOPvPrUA5cmu3dQ/live"><img src="https://i.imgur.com/39epJJa.jpg" title="africanews">
+<a href="https://rplayer.surge.sh/?url=https://rakuten-euronews-2-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/8HTaLIl.png" title="Euronews">
 <a href="https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g/live"><img src="https://i.imgur.com/EALLNvz.jpg" title="FRANCE 24">
 <a href="https://rplayer.surge.sh/?url=https://live1.presstv.ir/live/presstvfr/index.m3u8"><img src="https://i.imgur.com/bpYYOoM.png" title="Press TV">
+<a href="https://rplayer.surge.sh/?url=https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8"><img src="https://i.imgur.com/KepSnDd.png" title="RT Fr">
 <a href="https://rplayer.surge.sh/?url=https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"><img src="https://i.imgur.com/mkbFaoi.png" title="TV5 Monde Info">
 
 
@@ -50,7 +53,9 @@
 <a href="https://www.youtube.com/channel/UCbuRWB4dTQEq0-twqx6k9bg/live"><img src="https://i.imgur.com/ZnXCSP9.jpg" title="Wolfoo">
 <a href="https://rplayer.surge.sh/?url=https://fda836df464945ceba2aaecfb771f934.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_XilamTV/playlist.m3u8"><img src="https://i.imgur.com/BLm809W.png" title="Xilam TV">
 
+
 ## ★★★★★Films★★★★★
+
 
 <a href="https://rplayer.surge.sh/?url=https://d5rskh55dewj4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rdfutp26xapou-ssai-prd/master.m3u8"><img src="https://i.imgur.com/fdVbGgS.png" title="Ciné Prime">
 <a href="https://rplayer.surge.sh/?url=https://diqx5lyj19frh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Emotionelle-FR-prod/master.m3u8"><img src="https://i.imgur.com/iJILk5o.png" title="Emotion'L">
@@ -77,12 +82,22 @@
 ## ★★★★★Généraliste★★★★★
 <a href="https://www.youtube.com/channel/UCcfLuU0NFT0ZRoQy4jk6GdA/live"><img src="https://i.imgur.com/kJnRipY.jpg" title="CGTN">
 
+
+## ★★★★★Musique★★★★★
+<a href="https://www.youtube.com/channel/UCY-6VlZZcG4zDuWcRZHMlGQ"><img src="https://i.imgur.com/i2YnuPd.jpg" title="Hits Meilleure Musique">
+<a href="https://www.youtube.com/channel/UCnCHLdBj0Fmue--3wm7WuRA"><img src="https://i.imgur.com/tZZqsq6.jpg" title="Chanson Romantique">
+<a href="https://www.youtube.com/channel/UCwIJCWVmNiCrAXv_FoDhRYQ"><img src="https://i.imgur.com/m85b1se.jpg" title="Musique Pour Toi">
+<a href="https://www.youtube.com/channel/UC130DhdNr4y8-iZHjbNC8_A"><img src="https://i.imgur.com/NNASUFZ.jpg" title="Bonne Musique">
+<a href="https://www.youtube.com/channel/UCq2LX-_oZOTQkdKF-KQP3vw"><img src="https://i.imgur.com/3CRfIFE.jpg" title="Beautiful Life">
+<a href="https://www.youtube.com/channel/UCLeKU6nSrRaOifDwCKUsECg"><img src="https://i.imgur.com/5lEjwtq.jpg" title="Musique Français Collection">
+
+
 ## ★★★★★Religion★★★★★
-<a href="https://rplayer.surge.sh/?url=https://www.youtube.com/channel/UCMgaz88skVo7HF6ZWlioetw/live"><img src="https://i.imgur.com/mnIWKIY.jpg" title="3ABN">
-<a href="https://rplayer.surge.sh/?url=https://www.youtube.com/channel/UCCab9t43yIzIgdAM9FWpdRw/live"><img src="https://i.imgur.com/XTm0TiI.jpg" title="TBN FR">
+<a href="https://www.youtube.com/channel/UCMgaz88skVo7HF6ZWlioetw/live"><img src="https://i.imgur.com/mnIWKIY.jpg" title="3ABN">
+<a href="https://www.youtube.com/channel/UCCab9t43yIzIgdAM9FWpdRw/live"><img src="https://i.imgur.com/XTm0TiI.jpg" title="TBN FR">
+
 
 ## ★★★★★Series★★★★★
-
 <a href="https://rplayer.surge.sh/?url=https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/KHAWNBH.png" title="BBC Drama">
 <a href="https://rplayer.surge.sh/?url=https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/nxsVHny.png" title="BBC Doctor Who">
 <a href="https://rplayer.surge.sh/?url=https://video1.getstreamhosting.com:1936/8158/8158/playlist.m3u8"><img src="https://i.imgur.com/cnE6Zs6.png" title="Columbo">
@@ -90,6 +105,7 @@
 "><img src="https://i.imgur.com/WQ2deMs.png" title="Fréquence Novelas">
 <a href="https://rplayer.surge.sh/?url=https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/s1hqfCn.png" title="Rakuten Séries">
 <a href="https://rplayer.surge.sh/?url=https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/CzhRdYu.png" title="Stormcast Novelas TV">
+
 
 <a href="https://github.com/Sphinxroot/Tele-Franco-Direct-/blob/main/README.md"><img src="https://i.imgur.com/sVksJ9S.png" title="Retour">
 
