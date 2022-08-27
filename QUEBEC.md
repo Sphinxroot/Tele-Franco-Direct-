@@ -87,4 +87,4 @@
 <a href="https://www.youtube.com/channel/UCNKXYT-Nng5LBMUQrZJ9zWA/live"><img src="https://i.imgur.com/NtXDIY3.png" title="Télé-Mag : Québec">
 
 
-<a href="https://github.com/Sphinxroot/Test-TV/blob/main/README.md"><img src="https://i.imgur.com/sVksJ9S.png" title="Retour">
+<a href="https://github.com/Sphinxroot/Tele-Franco-Direct-/blob/main/README.md"><img src="https://i.imgur.com/sVksJ9S.png" title="Retour">
