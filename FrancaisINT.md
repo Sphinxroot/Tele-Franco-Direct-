@@ -91,5 +91,5 @@
 <a href="https://rplayer.surge.sh/?url=https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/s1hqfCn.png" title="Rakuten Séries">
 <a href="https://rplayer.surge.sh/?url=https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/CzhRdYu.png" title="Stormcast Novelas TV">
 
-<a href="https://github.com/Sphinxroot/Test-TV/blob/main/README.md"><img src="https://i.imgur.com/sVksJ9S.png" title="Retour">
+<a href="https://github.com/Sphinxroot/Tele-Franco-Direct-/blob/main/README.md"><img src="https://i.imgur.com/sVksJ9S.png" title="Retour">
 
