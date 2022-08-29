@@ -4,6 +4,10 @@
 <a href="https://fr.wikipedia.org/wiki/Suisse"><img src="https://i.imgur.com/Zh6eDP7.png" title="Suisse">
 
 
+## ★★★★★Affaires Publiques★★★★★
+<a href="https://rplayer.surge.sh/?url=https://pd-l-p.akamaized.net/pd/ngrp:NR-F_all/master.m3u8"><img src="https://i.imgur.com/pJzppxr.png" title="Parlement Suisse - Conseil national - français">
+
+
 # ★★★★★Local★★★★★
 <a href="https://rplayer.surge.sh/?url=http://livevideo.infomaniak.com/streaming/livecast/livehd/playlist.m3u8"><img src="https://i.imgur.com/m0TsCwD.png" title="Canal 9">
 <a href="https://rplayer.surge.sh/?url=http://canalalpha.vedge.infomaniak.com/livecast/canalalpha/playlist.m3u8"><img src="https://i.imgur.com/5gY8LDp.png" title="CanalAlpha Neuchâtel">
