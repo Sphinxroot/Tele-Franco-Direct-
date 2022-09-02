@@ -78,7 +78,7 @@
 
 ## ★★★★★Religion★★★★★
 <a href="https://www.youtube.com/channel/UCY3_KU8qXQeNnPQ_YHI00mw/live"><img src="https://i.imgur.com/DuYDVxC.png" title="Église de la Victoire">
-<a href="https://rplayer.surge.sh/?url=https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/index.m3u8"><img src="https://i.imgur.com/iZ2z4gV.png" title="EMCI TV Montréal">
+<a href="https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/x8azdl4"><img src="https://i.imgur.com/iZ2z4gV.png" title="EMCI TV Montréal">
 <a href="https://rplayer.surge.sh/?url=https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8"><img src="https://i.imgur.com/VBO6Eej.png" title="SL Media">
 
 
