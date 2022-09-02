@@ -40,7 +40,7 @@
 <a href="https://rplayer.surge.sh/?url=https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8"><img src="https://i.imgur.com/aUVOxIE.png" title="Télé Québec">
 
 
-## Ethnique
+## ★★★★★Ethnique★★★★★
 <a href="https://www.youtube.com/channel/UCAEDRKAof_vZLRLVoyIJpgw/live"><img src="https://i.imgur.com/PXI6yHX.png" title="Canadian Pinoy Radio-Montreal">
 <a href="https://rplayer.surge.sh/?url=http://live.greektv.ca/hls1/greektv.m3u8"><img src="https://i.imgur.com/yXATGcj.png" title="Montreal Greek TV">
 
