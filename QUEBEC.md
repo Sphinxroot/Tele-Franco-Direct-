@@ -6,7 +6,7 @@
 
 ## ★★★★★Actualités★★★★★
 <a href="https://rplayer.surge.sh/?url=https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8"><img src="https://i.imgur.com/43dfVtF.png" title="CBC Montréal">
-<a href="https://montreal.citynews.ca/video/2017/08/29/watch-citynews-montreal/"><img src="https://i.imgur.com/sMSCxTz.png" title="City News Montréal">
+<a href="https://rplayer.surge.sh/?url=https://citynewsregional.akamaized.net/hls/live/553720/CityNews-Montreal/master.m3u8"><img src="https://i.imgur.com/sMSCxTz.png" title="City News Montréal">
 <a href="https://globalnews.ca/live/montreal/"><img src="https://i.imgur.com/ZXPLBwl.png" title="Global News Montréal">
 <a href="https://rplayer.surge.sh/?url=https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8"><img src="https://i.imgur.com/4UPQNDv.png" title="ICI RDI">
 <a href="https://rplayer.surge.sh/?url=https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8"><img src="https://i.imgur.com/4UPQNDv.png" title="ICI RDI option 2"> 
