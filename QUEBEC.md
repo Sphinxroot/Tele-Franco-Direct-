@@ -6,6 +6,7 @@
 
 ## ★★★★★Actualités★★★★★
 <a href="https://rplayer.surge.sh/?url=https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8"><img src="https://i.imgur.com/43dfVtF.png" title="CBC Montréal">
+<a href="https://montreal.citynews.ca/video/2017/08/29/watch-citynews-montreal/"><img src="https://i.imgur.com/sMSCxTz.png" title="City News Montréal">
 <a href="https://globalnews.ca/live/montreal/"><img src="https://i.imgur.com/ZXPLBwl.png" title="Global News Montréal">
 <a href="https://rplayer.surge.sh/?url=https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8"><img src="https://i.imgur.com/4UPQNDv.png" title="ICI RDI">
 <a href="https://rplayer.surge.sh/?url=https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8"><img src="https://i.imgur.com/4UPQNDv.png" title="ICI RDI option 2"> 
@@ -14,7 +15,7 @@
 
 
 ## ★★★★★Affaires Publiques★★★★★
-<a href="https://rplayer.surge.sh/?url=https://cdn3.wowza.com/5/UHh3aHM1bTBsY1Uw/diffusion/canal17/playlist.m3u8"><img src="https://i.imgur.com/CwLgEfW.png" title="Assnat - Affaires Publiques">
+<a href="https://rplayer.surge.sh/?url=https://diffusionm.assnat.qc.ca/diffusion/canal17/playlist.m3u8"><img src="https://i.imgur.com/CwLgEfW.png" title="Assnat - Affaires Publiques">
 <a href="https://www.cpac.ca/"><img src="https://i.imgur.com/REld05a.png" title="Cpac">
 <a href="https://www.youtube.com/channel/UCCm3eAbiTKAowAPMpSdd1Xg/live"><img src="https://i.imgur.com/jORz0hY.png" title="MTLVille : Montréal (Lorsque Diffusion)">
 
@@ -60,20 +61,19 @@
 ## ★★★★★Multiculturel★★★★★
 <a href="https://rplayer.surge.sh/?url=https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8"><img src="https://i.imgur.com/Cl0wRCj.png" title="ICI Télévision Montréal">
 <a href="https://www.youtube.com/channel/UCupiuMa4oN_pQC2xT5HMfIg/live"><img src="https://i.imgur.com/NHKgIF5.png" title="MRTV-ca Montréal (Lorsque Diffusion)">
-<a href="https://rplayer.surge.sh/?url=https://5790d294af2dc.streamlock.net/8150/8150/chunklist.m3u8"><img src="https://i.imgur.com/7xKmczW.png" title="Télé Culturelle Médias (TCM-TV)">
+<a href="http://teleculturelle.com/"><img src="https://i.imgur.com/7xKmczW.png" title="Télé Culturelle Médias (TCM-TV)">
 
 
 ## ★★★★★Radio★★★★★
 <a href="https://rplayer.surge.sh/?url=https://media1.radioservers.biz:1936/cnv/cnv/playlist.m3u8"><img src="https://i.imgur.com/kHsF7Vg.png" title="CNV - Radio Numérique">
 <a href="https://rplayer.surge.sh/?url=https://www.twitch.tv/fm93quebec"><img src="https://i.imgur.com/JmcHAnC.png" title="FM93 : Québec">
-<a href="https://www.youtube.com/funkypanda/live"><img src="https://i.imgur.com/rp1WiH8.png" title="Funky Way FM">
+<a href="https://rplayer.surge.sh/?url=https://www.twitch.tv/blvd_fm"><img src="https://i.imgur.com/BoLh5rk.png" title="BLVD 102.1 : Québec">
 <a href="https://rplayer.surge.sh/?url=https://www.twitch.tv/quebecreveille"><img src="https://i.imgur.com/4USn2ho.png" title="Québec réveille! : La semaine De 07h30 a 09h30 ">
 
 
 ## ★★★★★Religion★★★★★
 <a href="https://www.youtube.com/channel/UCY3_KU8qXQeNnPQ_YHI00mw/live"><img src="https://i.imgur.com/DuYDVxC.png" title="Église de la Victoire">
 <a href="https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/x8azdl4"><img src="https://i.imgur.com/iZ2z4gV.png" title="EMCI TV Montréal">
-<a href="https://rplayer.surge.sh/?url=https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8"><img src="https://i.imgur.com/VBO6Eej.png" title="SL Media">
 
 
 ## ★★★★★Télé Magazine★★★★★
