@@ -4,7 +4,7 @@
 <a href="https://fr.wikipedia.org/wiki/Qu%C3%A9bec"><img src="https://i.imgur.com/GmpAzAe.png" title="Québec">
 
 ## ★★★★★En Débrouillage★★★★★
-<a href="https://www.qub.ca/tvaplus/zeste"><img src="https://i.imgur.com/JwCtBze.png" title="Zeste En Débrouillage">
+<a href="https://www.qub.ca/tvaplus/zeste/en-direct"><img src="https://i.imgur.com/JwCtBze.png" title="Zeste En Débrouillage">
 
 ## ★★★★★Actualités★★★★★
 <a href="https://rplayer.surge.sh/?url=https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8"><img src="https://i.imgur.com/43dfVtF.png" title="CBC Montréal">
