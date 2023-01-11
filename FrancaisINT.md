@@ -85,6 +85,7 @@
 
 ## ★★★★★Musique★★★★★
 <a href="https://www.youtube.com/channel/UCY-6VlZZcG4zDuWcRZHMlGQ"><img src="https://i.imgur.com/i2YnuPd.jpg" title="Hits Meilleure Musique">
+<a href="https://www.youtube.com/@chansonfrancaise68/streams"><img src="https://i.imgur.com/gdnS82c.jpg" title="Chanson Francaise">
 <a href="https://www.youtube.com/channel/UCnCHLdBj0Fmue--3wm7WuRA"><img src="https://i.imgur.com/tZZqsq6.jpg" title="Chanson Romantique">
 <a href="https://www.youtube.com/channel/UCwIJCWVmNiCrAXv_FoDhRYQ"><img src="https://i.imgur.com/m85b1se.jpg" title="Musique Pour Toi">
 <a href="https://www.youtube.com/channel/UC130DhdNr4y8-iZHjbNC8_A"><img src="https://i.imgur.com/NNASUFZ.jpg" title="Bonne Musique">
