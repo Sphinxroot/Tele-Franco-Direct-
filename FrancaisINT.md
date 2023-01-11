@@ -94,6 +94,8 @@
 
 ## ★★★★★Religion★★★★★
 <a href="https://www.youtube.com/channel/UCMgaz88skVo7HF6ZWlioetw/live"><img src="https://i.imgur.com/mnIWKIY.jpg" title="3ABN">
+<a href="https://www.youtube.com/@AvecMarie/streams"><img src="https://i.imgur.com/P9gx27o.jpg" title="Avec Marie">
+<a href="https://www.youtube.com/@EspritNouveau/streams"><img src="https://i.imgur.com/1smNeMs.jpg" title="Esprit Nouveau">
 <a href="https://www.youtube.com/channel/UCCab9t43yIzIgdAM9FWpdRw/live"><img src="https://i.imgur.com/XTm0TiI.jpg" title="TBN FR">
 
 
