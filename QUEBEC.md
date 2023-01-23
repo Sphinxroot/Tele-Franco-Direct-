@@ -3,8 +3,7 @@
 
 <a href="https://fr.wikipedia.org/wiki/Qu%C3%A9bec"><img src="https://i.imgur.com/GmpAzAe.png" title="Québec">
 
-## ★★★★★En Débrouillage★★★★★
-<a href="https://www.qub.ca/tvaplus/zeste/en-direct"><img src="https://i.imgur.com/JwCtBze.png" title="Zeste En Débrouillage">
+
 
 ## ★★★★★Actualités★★★★★
 <a href="https://rplayer.surge.sh/?url=https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8"><img src="https://i.imgur.com/43dfVtF.png" title="CBC Montréal">
@@ -82,5 +81,8 @@
 <a href="https://rplayer.surge.sh/?url=https://www.twitch.tv/radiotalbot"><img src="https://i.imgur.com/GDTp6FD.png" title="RadioTalbot - (Mardi @ Jeudi . 20h00)">
 <a href="https://www.youtube.com/channel/UCNKXYT-Nng5LBMUQrZJ9zWA/live"><img src="https://i.imgur.com/NtXDIY3.png" title="Télé-Mag : Québec">
 
+  
+## ★★★★★En Débrouillage★★★★★
+<a href="https://www.qub.ca/tvaplus/zeste/en-direct"><img src="https://i.imgur.com/JwCtBze.png" title="Zeste En Débrouillage  Terminer">
 
 <a href="https://github.com/Sphinxroot/Tele-Franco-Direct-/blob/main/README.md"><img src="https://i.imgur.com/sVksJ9S.png" title="Retour">
