@@ -12,5 +12,7 @@
 ## Suisse 
 <a href="https://github.com/Sphinxroot/Tele-Franco-Direct-/blob/main/SUISSE.md"><img src="https://i.imgur.com/NTgRGX9.png" title="Suisse">
 
+## Call Of Liberty
+<a href="http://www.callofliberty.fr/tv/tv.php"><img src="https://i.imgur.com/Q80KNeb.png" title="Call Of Liberty">
 ## CommonTV
 <a href="https://commontv.live/"><img src="https://i.imgur.com/wFJoVBH.png" title="Common TV">
