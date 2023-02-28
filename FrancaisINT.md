@@ -10,6 +10,7 @@
 <a href="https://www.youtube.com/channel/UC25EuGAePOPvPrUA5cmu3dQ/live"><img src="https://i.imgur.com/39epJJa.jpg" title="africanews">
 <a href="https://rplayer.surge.sh/?url=https://rakuten-euronews-2-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/8HTaLIl.png" title="Euronews">
 <a href="https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g/live"><img src="https://i.imgur.com/EALLNvz.jpg" title="FRANCE 24">
+<a href="https://rplayer.surge.sh/?url=https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8"><img src="https://i.imgur.com/escq4mr.png" title="I24 NEWS FR">
 <a href="https://rplayer.surge.sh/?url=https://live1.presstv.ir/live/presstvfr/index.m3u8"><img src="https://i.imgur.com/bpYYOoM.png" title="Press TV">
 <a href="https://rplayer.surge.sh/?url=https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8"><img src="https://i.imgur.com/KepSnDd.png" title="RT Fr">
 <a href="https://rplayer.surge.sh/?url=https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"><img src="https://i.imgur.com/mkbFaoi.png" title="TV5 Monde Info">
