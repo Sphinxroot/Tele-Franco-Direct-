@@ -19,7 +19,7 @@
 <a href="https://rplayer.surge.sh/?url=https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/pIhu7n5.png" title="Luxe TV">
 <a href="https://rplayer.surge.sh/?url=https://amg01255-secomcofites-my-myzen-samsungfr-samsungfr-36vwz.amagi.tv/playlist/amg01255-secomcofites-my-myzen-samsungfr-samsungfr/playlist.m3u8"><img src="https://i.imgur.com/FG1NdK7.png" title="MyZen fit">
 <a href="https://rplayer.surge.sh/?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8"><img src="https://i.imgur.com/ArVLApG.png" title="Nature Time">
-<a href="https://rplayer.surge.sh/?url=https://rakuten-documentaries-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/FdtfM5U.png" title="Rakuten Documentaires">
+<a href="https://rplayer.surge.sh/?url=https://rakuten-documentaries-7-fr.lg.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/FdtfM5U.png" title="Rakuten Documentaires">
 <a href="https://rplayer.surge.sh/?url=https://alchimie-explorebytvplayer-fr-rakuten.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/rAj7U37.png" title="Rakuten Explore par TVPlayer">
 <a href="https://rplayer.surge.sh/?url=https://alchimie-humanity-documentaries-fr-rakuten.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/XaEamx8.png" title="Rakuten Humanity Documentaries">
 <a href="https://rplayer.surge.sh/?url=https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/GlVriOW.png" title="Rakuten Stories">
@@ -64,8 +64,7 @@
 <a href="https://rplayer.surge.sh/?url=https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/ImEyLN1.png" title="Rakuten Comedie">
 <a href="https://rplayer.surge.sh/?url=https://5b31b343db684f2d897b12cc1793defb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenTVShows/playlist.m3u8"><img src="https://i.imgur.com/yyxQOJf.png" title="Rakuten Films dramatiques">
 <a href="https://rplayer.surge.sh/?url=https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/yxxyxqC.png" title="Rakuten Famille">
-<a href="https://rplayer.surge.sh/?url=https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/ff9hXqd.png" title="Romance 1">
-<a href="https://rplayer.surge.sh/?url=https://rakuten-romance-7-fr.lg.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/ff9hXqd.png" title="Romance 2">
+<a href="https://rplayer.surge.sh/?url=https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/ff9hXqd.png" title="Romance">
 <a href="https://rplayer.surge.sh/?url=https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/e9fkbwD.png" title="Rakuten Thriller">
 <a href="https://rplayer.surge.sh/?url=https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/OezQA5C.png" title="Rakuten Top Films">
 <a href="https://rplayer.surge.sh/?url=https://d2fih5ugbu4v3d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-adwf5iz2j8r09-prod/run/rt_fr/rt_fr.m3u8"><img src="https://i.imgur.com/xL10sq3.png" title="Runtime">
@@ -102,7 +101,6 @@
 ## ★★★★★Series★★★★★
 <a href="https://rplayer.surge.sh/?url=https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/KHAWNBH.png" title="BBC Drama">
 <a href="https://rplayer.surge.sh/?url=https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/nxsVHny.png" title="BBC Doctor Who">
-<a href="https://rplayer.surge.sh/?url=https://video1.getstreamhosting.com:1936/8158/8158/playlist.m3u8"><img src="https://i.imgur.com/cnE6Zs6.png" title="Columbo">
 <a href="https://rplayer.surge.sh/?url=https://dlfgnu48pa2lo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4do8qdzsxt6b6-prod/frequencenovelas/master.m3u8
 "><img src="https://i.imgur.com/WQ2deMs.png" title="Fréquence Novelas">
 <a href="https://rplayer.surge.sh/?url=https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/s1hqfCn.png" title="Rakuten Séries">
