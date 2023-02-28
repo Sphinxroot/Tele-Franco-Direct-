@@ -60,7 +60,7 @@
 <a href="https://rplayer.surge.sh/?url=https://amg01412-xiaomiasia-cinenanar-xiaomi-6715q.amagi.tv/playlist/amg01412-xiaomiasia-cinenanar-xiaomi/playlist.m3u8"><img src="https://i.imgur.com/NU8bk7n.jpg" title="Ciné Nanar">
 <a href="https://rplayer.surge.sh/?url=https://d5rskh55dewj4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rdfutp26xapou-ssai-prd/master.m3u8"><img src="https://i.imgur.com/fdVbGgS.png" title="Ciné Prime">
 <a href="https://rplayer.surge.sh/?url=https://diqx5lyj19frh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Emotionelle-FR-prod/master.m3u8"><img src="https://i.imgur.com/iJILk5o.png" title="Emotion'L">
-<a href="https://rplayer.surge.sh/?url=https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/YoI2vMO.png" title="Mytime Movies">
+<a href="https://rplayer.surge.sh/?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimefr-xiaomi/playlist.m3u8"><img src="https://i.imgur.com/YoI2vMO.png" title="Mytime Movies">
 <a href="https://rplayer.surge.sh/?url=https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/TA2E9A0.png" title="Rakuten Action">
 <a href="https://rplayer.surge.sh/?url=https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/DyVaNEf.png" title="Rakuten Cinéma">
 <a href="https://rplayer.surge.sh/?url=https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/ImEyLN1.png" title="Rakuten Comedie">
