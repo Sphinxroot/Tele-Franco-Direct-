@@ -6,6 +6,7 @@
 
 
 ## ★★★★★Actualités★★★★★
+<a href="https://www.youtube.com/channel/UCOBMhI7TtRLTAGpcTjNvYCw/live"><img src="https://i.imgur.com/k4HxV8K.jpg" title="Afrique Média">
 <a href="https://www.youtube.com/channel/UC25EuGAePOPvPrUA5cmu3dQ/live"><img src="https://i.imgur.com/39epJJa.jpg" title="africanews">
 <a href="https://rplayer.surge.sh/?url=https://rakuten-euronews-2-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/8HTaLIl.png" title="Euronews">
 <a href="https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g/live"><img src="https://i.imgur.com/EALLNvz.jpg" title="FRANCE 24">
