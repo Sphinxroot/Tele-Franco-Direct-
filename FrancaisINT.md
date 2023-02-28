@@ -15,7 +15,7 @@
 <a href="https://rplayer.surge.sh/?url=https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"><img src="https://i.imgur.com/mkbFaoi.png" title="TV5 Monde Info">
 
 
-## ★★★★★Documentaire★★★★★
+## ★★★★★Documentaires★★★★★
 <a href="https://rplayer.surge.sh/?url=https://alchimie-krime-rakuten.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/mYI1QPN.png" title="Krime (VOSF)">
 <a href="https://rplayer.surge.sh/?url=https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/pIhu7n5.png" title="Luxe TV">
 <a href="https://rplayer.surge.sh/?url=https://amg01255-secomcofites-my-myzen-samsungfr-samsungfr-36vwz.amagi.tv/playlist/amg01255-secomcofites-my-myzen-samsungfr-samsungfr/playlist.m3u8"><img src="https://i.imgur.com/FG1NdK7.png" title="MyZen fit">
@@ -27,7 +27,7 @@
 <a href="https://rplayer.surge.sh/?url=https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8"><img src="https://i.imgur.com/ZwsG58I.png" title="Travelxp">
 
 
-## ★★★★★Enfant★★★★★
+## ★★★★★Enfants★★★★★
 <a href="https://rplayer.surge.sh/?url=https://amuse-amuseanimation-2-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/ufi7ZRY.png" title="Amuse Animation">
 <a href="https://rplayer.surge.sh/?url=https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8"><img src="https://i.imgur.com/q37hMMZ.jpg" title="Anime Digital Network">
 <a href="https://www.youtube.com/channel/UCj_YP8My20fYnXbe8B0ziUA/live"><img src="https://i.imgur.com/bkbX4CL.jpg" title="Baby Alive">
@@ -43,6 +43,7 @@
 <a href="https://www.youtube.com/channel/UC1VGGT9RfunvCdvZf_gqVBg/live"><img src="https://i.imgur.com/FPg5toi.jpg" title="La Petite Sorcière Tanny">
 <a href="https://www.youtube.com/channel/UCrMm0SXMYBDNElOUC6Dox8w/live"><img src="https://i.imgur.com/0hJPZI0.jpg" title="Le Petit Monde des Camions">
 <a href="https://www.youtube.com/channel/UCDCcr_N3OsqbH7FItELttvw/live"><img src="https://i.imgur.com/d7z4b2E.jpg" title="My Little Pony">
+<a href="https://www.youtube.com/channel/UCeGvSi1Tb8OV78ue3_tux1A/live"><img src="https://i.imgur.com/Wh3Euf7.jpg" title="Nickelodeon">
 <a href="https://www.youtube.com/channel/UCXptamDYEVcU4JCio30hYTw/live"><img src="https://i.imgur.com/9Q5Mk3o.jpg" title="Peppa Pig">
 <a href="https://www.youtube.com/channel/UC0pHdbHRCREJJQhGSUDH61g/live"><img src="https://i.imgur.com/SrrKssg.jpg" title="POCOYO">
 <a href="https://www.youtube.com/channel/UCnWWi51HAmGJEyoPNynPVvA/live"><img src="https://i.imgur.com/79if4Hx.jpg" title="Power Rangers">
@@ -82,7 +83,7 @@
 <a href="https://www.youtube.com/channel/UCcfLuU0NFT0ZRoQy4jk6GdA/live"><img src="https://i.imgur.com/kJnRipY.jpg" title="CGTN">
 
 
-## ★★★★★Musique★★★★★
+## ★★★★★Musiques★★★★★
 <a href="https://www.youtube.com/channel/UCY-6VlZZcG4zDuWcRZHMlGQ"><img src="https://i.imgur.com/i2YnuPd.jpg" title="Hits Meilleure Musique">
 <a href="https://www.youtube.com/@chansonfrancaise68/streams"><img src="https://i.imgur.com/gdnS82c.jpg" title="Chanson Francaise">
 <a href="https://www.youtube.com/channel/UCnCHLdBj0Fmue--3wm7WuRA"><img src="https://i.imgur.com/tZZqsq6.jpg" title="Chanson Romantique">
@@ -92,7 +93,7 @@
 <a href="https://www.youtube.com/channel/UCLeKU6nSrRaOifDwCKUsECg"><img src="https://i.imgur.com/5lEjwtq.jpg" title="Musique Français Collection">
 
 
-## ★★★★★Religion★★★★★
+## ★★★★★Religions★★★★★
 <a href="https://www.youtube.com/channel/UCMgaz88skVo7HF6ZWlioetw/live"><img src="https://i.imgur.com/mnIWKIY.jpg" title="3ABN">
 <a href="https://www.youtube.com/@AvecMarie/streams"><img src="https://i.imgur.com/P9gx27o.jpg" title="Avec Marie">
 <a href="https://www.youtube.com/@EspritNouveau/streams"><img src="https://i.imgur.com/1smNeMs.jpg" title="Esprit Nouveau">
