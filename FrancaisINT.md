@@ -50,6 +50,7 @@
 <a href="https://www.youtube.com/channel/UC0pHdbHRCREJJQhGSUDH61g/live"><img src="https://i.imgur.com/SrrKssg.jpg" title="POCOYO">
 <a href="https://www.youtube.com/channel/UCnWWi51HAmGJEyoPNynPVvA/live"><img src="https://i.imgur.com/79if4Hx.jpg" title="Power Rangers">
 <a href="https://www.youtube.com/channel/UCmwN7oJTsAeiPPcV4FF8HRw/live"><img src="https://i.imgur.com/O1wFVBp.jpg" title="Pyjamasques">
+<a href="https://www.youtube.com/channel/UCZwcHzzoG9onLBp_JPdg6SQ/live"><img src="https://i.imgur.com/T7ILRBd.jpg" title="Rainbow High">
 <a href="https://rplayer.surge.sh/?url=https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/zO7rJRT.png" title="Supertoons TV">
 <a href="https://www.youtube.com/channel/UCE6LObtIIyUymAejzHJ73GA/live"><img src="https://i.imgur.com/ffet7QC.jpg" title="Super Toons TV">
 <a href="https://www.youtube.com/channel/UC4u2o6tyE4vTrErXY9AN6Rw/live"><img src="https://i.imgur.com/1QCjJMI.jpg" title="Super Truck">
