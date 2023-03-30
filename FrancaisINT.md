@@ -17,6 +17,7 @@
 
 
 ## ★★★★★Documentaires★★★★★
+<a href="https://rplayer.surge.sh/?url=https://d2lkb3wuytha2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1sf8g3d5udmzh-ssai-prd/master.m3u8"><img src="https://i.imgur.com/V9f49qQ.png" title="Destination Nature">
 <a href="https://rplayer.surge.sh/?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-enquetesdechoc-samsungfr/playlist.m3u8"><img src="https://i.imgur.com/sKqvqaU.png" title="Enquêtes de Choc">
 <a href="https://rplayer.surge.sh/?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-homicide-samsungfr/playlist.m3u8"><img src="https://i.imgur.com/3vQN8uR.png" title="Homicide">
 <a href="https://rplayer.surge.sh/?url=https://alchimie-krime-rakuten.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/mYI1QPN.png" title="Krime (VOSF)">
@@ -79,11 +80,18 @@
 <a href="https://rplayer.surge.sh/?url=https://d2fih5ugbu4v3d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-adwf5iz2j8r09-prod/run/rt_fr/rt_fr.m3u8"><img src="https://i.imgur.com/xL10sq3.png" title="Runtime">
 <a href="https://rplayer.surge.sh/?url=https://samsunguk-sofytv-samsung-fr-riju6.amagi.tv/playlist/samsunguk-sofytv-samsung-fr/playlist.m3u8"><img src="https://i.imgur.com/TqDBslp.png" title="Sofy TV">
 <a href="https://rplayer.surge.sh/?url=https://d1jpd8j6nh8nwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uuryop9dra2jr-prod/screamin/master.m3u8"><img src="https://i.imgur.com/NoSbmJX.png" title="Scream'IN">
+<a href="https://rplayer.surge.sh/?url=https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hls_data_rakutenAA-universcine-rakuten/CDN/master.m3u8"><img src="https://i.imgur.com/GheW23Y.png" title="UniversCiné">
 <a href="https://rplayer.surge.sh/?url=https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/JALDbML.png" title="Wildside TV">
 
 
 ## ★★★★★Francophonie★★★★★
 <a href="https://rplayer.surge.sh/?url=https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8"><img src="https://i.imgur.com/5aKGsQW.png" title="Francophonie 24">
+
+
+## ★★★★★Gastronomie★★★★★
+<a href="https://rplayer.surge.sh/?url=https://d19umdgd0zr2ln.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Chefclub-FR-prod/chc/ch/ch.m3u8"><img src="https://i.imgur.com/xLmlDMf.png" title="Chefclub TV">
+<a href="https://rplayer.surge.sh/?url=https://alchimie-ateliersdeschefs-rakuten.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/vwSgNN3.png" title="Exquis TV">
+<a href="https://rplayer.surge.sh/?url=https://d3ogvsjhr301yh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ecfucb9qnj105-ssai-prd/master.m3u8"><img src="https://i.imgur.com/GERY1jh.png" title="MasterChef">
 
 
 ## ★★★★★Généraliste★★★★★
@@ -110,6 +118,7 @@
 ## ★★★★★Series★★★★★
 <a href="https://rplayer.surge.sh/?url=https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/KHAWNBH.png" title="BBC Drama">
 <a href="https://rplayer.surge.sh/?url=https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/nxsVHny.png" title="BBC Doctor Who">
+<a href="https://rplayer.surge.sh/?url=https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/77dc314fd75541ff/9991729/master.m3u8?ads.xumo_channelId=9991729"><img src="https://i.imgur.com/UPmgHXB.png" title="FilmRise Séries">
 <a href="https://rplayer.surge.sh/?url=https://dlfgnu48pa2lo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4do8qdzsxt6b6-prod/frequencenovelas/master.m3u8
 "><img src="https://i.imgur.com/WQ2deMs.png" title="Fréquence Novelas">
 <a href="https://rplayer.surge.sh/?url=https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/s1hqfCn.png" title="Rakuten Séries">
