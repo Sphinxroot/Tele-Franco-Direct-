@@ -45,6 +45,7 @@
 <a href="https://www.youtube.com/channel/UCl0KdGiwyqLJCdu5XMIz_TQ/live"><img src="https://i.imgur.com/Oxr8Ws9.jpg" title="HeyKids">
 <a href="https://www.youtube.com/channel/UC-hyDfujz0SIpqsQIoaGueA/live"><img src="https://i.imgur.com/hv5Br1S.jpg" title="Hot Wheels">
 <a href="https://www.youtube.com/channel/UCgRU1S0M_TbYe0G0O1s4mqg/live"><img src="https://i.imgur.com/noWRxnm.jpg" title="IncrediTales">
+<a href="https://rplayer.surge.sh/?url=https://detxaqhrw2ib7.cloudfront.net/mtd/jt/mtd_jt_720p_high.m3u8"><img src="https://i.imgur.com/BwfoKbd.png" title="Jellytoon">
 <a href="https://www.youtube.com/channel/UC1VGGT9RfunvCdvZf_gqVBg/live"><img src="https://i.imgur.com/FPg5toi.jpg" title="La Petite Sorcière Tanny">
 <a href="https://www.youtube.com/channel/UCrMm0SXMYBDNElOUC6Dox8w/live"><img src="https://i.imgur.com/0hJPZI0.jpg" title="Le Petit Monde des Camions">
 <a href="https://www.youtube.com/channel/UCvYqgo9dGBPVvaa4paVIhwQ/live"><img src="https://i.imgur.com/boSoaul.jpg" title="LOU! [Officiel]">
@@ -60,7 +61,7 @@
 <a href="https://www.youtube.com/channel/UC4u2o6tyE4vTrErXY9AN6Rw/live"><img src="https://i.imgur.com/1QCjJMI.jpg" title="Super Truck">
 <a href="https://www.youtube.com/channel/UCqvIdlrnd4DCcqp2DZwaZYw/live"><img src="https://i.imgur.com/qOubhdZ.jpg" title="WB Kids">
 <a href="https://www.youtube.com/channel/UCbuRWB4dTQEq0-twqx6k9bg/live"><img src="https://i.imgur.com/ZnXCSP9.jpg" title="Wolfoo">
-<a href="https://rplayer.surge.sh/?url=https://fda836df464945ceba2aaecfb771f934.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_XilamTV/playlist.m3u8"><img src="https://i.imgur.com/BLm809W.png" title="Xilam TV">
+<a href="https://rplayer.surge.sh/?url=https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/BLm809W.png" title="Xilam TV">
 
 
 ## ★★★★★Films★★★★★
@@ -116,11 +117,13 @@
 
 
 ## ★★★★★Series★★★★★
+<a href="https://rplayer.surge.sh/?url=https://d3vzuavp63wsij.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8bd7v2jj2xsgr-ssai-prd/master.m3u8"><img src="https://i.imgur.com/NJDP2wZ.png" title="Alerte à Malibu">
 <a href="https://rplayer.surge.sh/?url=https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/KHAWNBH.png" title="BBC Drama">
 <a href="https://rplayer.surge.sh/?url=https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/nxsVHny.png" title="BBC Doctor Who">
 <a href="https://rplayer.surge.sh/?url=https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/77dc314fd75541ff/9991729/master.m3u8?ads.xumo_channelId=9991729"><img src="https://i.imgur.com/UPmgHXB.png" title="FilmRise Séries">
 <a href="https://rplayer.surge.sh/?url=https://dlfgnu48pa2lo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4do8qdzsxt6b6-prod/frequencenovelas/master.m3u8
 "><img src="https://i.imgur.com/WQ2deMs.png" title="Fréquence Novelas">
+<a href="https://rplayer.surge.sh/?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-nashvillefrance-samsungfr/playlist.m3u8"><img src="https://i.imgur.com/Lr0EVJo.png" title="Nashville Channel">
 <a href="https://rplayer.surge.sh/?url=https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/s1hqfCn.png" title="Rakuten Séries">
 <a href="https://rplayer.surge.sh/?url=https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/CzhRdYu.png" title="Stormcast Novelas TV">
 
