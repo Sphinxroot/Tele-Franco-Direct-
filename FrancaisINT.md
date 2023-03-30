@@ -20,7 +20,8 @@
 <a href="https://rplayer.surge.sh/?url=https://d2lkb3wuytha2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1sf8g3d5udmzh-ssai-prd/master.m3u8"><img src="https://i.imgur.com/V9f49qQ.png" title="Destination Nature">
 <a href="https://rplayer.surge.sh/?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-enquetesdechoc-samsungfr/playlist.m3u8"><img src="https://i.imgur.com/sKqvqaU.png" title="Enquêtes de Choc">
 <a href="https://rplayer.surge.sh/?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-homicide-samsungfr/playlist.m3u8"><img src="https://i.imgur.com/3vQN8uR.png" title="Homicide">
-<a href="https://rplayer.surge.sh/?url=https://alchimie-krime-rakuten.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/mYI1QPN.png" title="Krime (VOSF)">
+<a href="https://www.youtube.com/channel/UCl-ipFGVotx_Tu5YWMEZgsg/live"><img src="https://i.imgur.com/EGpzlCk.jpg" title="Kosmo">
+<a href="https://rplayer.surge.sh/?url=https://alchimie-krime-rakuten.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/mYI1QPN.png" title="Krime">
 <a href="https://rplayer.surge.sh/?url=https://dwjdtnjykswi0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5htv1a3evaj03-ssai-prd/master.m3u8"><img src="https://i.imgur.com/glF3V3G.png" title="Les 30 histoires">
 <a href="https://rplayer.surge.sh/?url=https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/pIhu7n5.png" title="Luxe TV">
 <a href="https://rplayer.surge.sh/?url=https://amg01255-secomcofites-my-myzen-samsungfr-samsungfr-36vwz.amagi.tv/playlist/amg01255-secomcofites-my-myzen-samsungfr-samsungfr/playlist.m3u8"><img src="https://i.imgur.com/FG1NdK7.png" title="MyZen fit">
@@ -29,6 +30,7 @@
 <a href="https://rplayer.surge.sh/?url=https://alchimie-explorebytvplayer-fr-rakuten.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/rAj7U37.png" title="Rakuten Explore par TVPlayer">
 <a href="https://rplayer.surge.sh/?url=https://alchimie-humanity-documentaries-fr-rakuten.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/XaEamx8.png" title="Rakuten Humanity Documentaries">
 <a href="https://rplayer.surge.sh/?url=https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/GlVriOW.png" title="Rakuten Stories">
+<a href="https://rplayer.surge.sh/?url=https://tntv-samsung-fr.amagi.tv/hls/amagi_hls_data_samsungfr-tntv-samsungfr/CDN/playlist.m3u8"><img src="https://i.imgur.com/xiY62tE.png" title="TNTV">
 <a href="https://rplayer.surge.sh/?url=https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8"><img src="https://i.imgur.com/ZwsG58I.png" title="Travelxp">
 
 
