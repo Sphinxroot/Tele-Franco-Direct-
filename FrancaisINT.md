@@ -77,7 +77,7 @@
 <a href="https://rplayer.surge.sh/?url=https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/e9fkbwD.png" title="Rakuten Thriller">
 <a href="https://rplayer.surge.sh/?url=https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/HYsoVoS.png" title="Rakuten Top Films">
 <a href="https://rplayer.surge.sh/?url=https://d2fih5ugbu4v3d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-adwf5iz2j8r09-prod/run/rt_fr/rt_fr.m3u8"><img src="https://i.imgur.com/xL10sq3.png" title="Runtime">
-<a href="https://rplayer.surge.sh/?url=https://sofytv-samsungfr.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/TqDBslp.png" title="Sofy TV (VOSF)">
+<a href="https://rplayer.surge.sh/?url=https://samsunguk-sofytv-samsung-fr-riju6.amagi.tv/playlist/samsunguk-sofytv-samsung-fr/playlist.m3u8"><img src="https://i.imgur.com/TqDBslp.png" title="Sofy TV">
 <a href="https://rplayer.surge.sh/?url=https://d1jpd8j6nh8nwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uuryop9dra2jr-prod/screamin/master.m3u8"><img src="https://i.imgur.com/NoSbmJX.png" title="Scream'IN">
 <a href="https://rplayer.surge.sh/?url=https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/JALDbML.png" title="Wildside TV">
 
