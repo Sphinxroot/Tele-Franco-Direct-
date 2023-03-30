@@ -17,7 +17,10 @@
 
 
 ## ★★★★★Documentaires★★★★★
+<a href="https://rplayer.surge.sh/?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-enquetesdechoc-samsungfr/playlist.m3u8"><img src="https://i.imgur.com/sKqvqaU.png" title="Enquêtes de Choc">
+<a href="https://rplayer.surge.sh/?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-homicide-samsungfr/playlist.m3u8"><img src="https://i.imgur.com/3vQN8uR.png" title="Homicide">
 <a href="https://rplayer.surge.sh/?url=https://alchimie-krime-rakuten.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/mYI1QPN.png" title="Krime (VOSF)">
+<a href="https://rplayer.surge.sh/?url=https://dwjdtnjykswi0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5htv1a3evaj03-ssai-prd/master.m3u8"><img src="https://i.imgur.com/glF3V3G.png" title="Les 30 histoires">
 <a href="https://rplayer.surge.sh/?url=https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/pIhu7n5.png" title="Luxe TV">
 <a href="https://rplayer.surge.sh/?url=https://amg01255-secomcofites-my-myzen-samsungfr-samsungfr-36vwz.amagi.tv/playlist/amg01255-secomcofites-my-myzen-samsungfr-samsungfr/playlist.m3u8"><img src="https://i.imgur.com/FG1NdK7.png" title="MyZen fit">
 <a href="https://rplayer.surge.sh/?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8"><img src="https://i.imgur.com/ArVLApG.png" title="Nature Time">
@@ -60,6 +63,7 @@
 
 
 ## ★★★★★Films★★★★★
+<a href="https://rplayer.surge.sh/?url=https://c3776ebb1c7742cb9c0191b41b8b2432.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_Brefcinema/playlist.m3u8"><img src="https://i.imgur.com/kEIpv2j.png" title="Brefcinema">
 <a href="https://rplayer.surge.sh/?url=https://amg01412-xiaomiasia-cinenanar-xiaomi-6715q.amagi.tv/playlist/amg01412-xiaomiasia-cinenanar-xiaomi/playlist.m3u8"><img src="https://i.imgur.com/NU8bk7n.jpg" title="Ciné Nanar">
 <a href="https://rplayer.surge.sh/?url=https://d5rskh55dewj4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rdfutp26xapou-ssai-prd/master.m3u8"><img src="https://i.imgur.com/fdVbGgS.png" title="Ciné Prime">
 <a href="https://rplayer.surge.sh/?url=https://diqx5lyj19frh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Emotionelle-FR-prod/master.m3u8"><img src="https://i.imgur.com/iJILk5o.png" title="Emotion'L">
@@ -71,7 +75,7 @@
 <a href="https://rplayer.surge.sh/?url=https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/yxxyxqC.png" title="Rakuten Famille">
 <a href="https://rplayer.surge.sh/?url=https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/ff9hXqd.png" title="Romance">
 <a href="https://rplayer.surge.sh/?url=https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/e9fkbwD.png" title="Rakuten Thriller">
-<a href="https://rplayer.surge.sh/?url=https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/OezQA5C.png" title="Rakuten Top Films">
+<a href="https://rplayer.surge.sh/?url=https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/HYsoVoS.png" title="Rakuten Top Films">
 <a href="https://rplayer.surge.sh/?url=https://d2fih5ugbu4v3d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-adwf5iz2j8r09-prod/run/rt_fr/rt_fr.m3u8"><img src="https://i.imgur.com/xL10sq3.png" title="Runtime">
 <a href="https://rplayer.surge.sh/?url=https://sofytv-samsungfr.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/TqDBslp.png" title="Sofy TV (VOSF)">
 <a href="https://rplayer.surge.sh/?url=https://d1jpd8j6nh8nwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uuryop9dra2jr-prod/screamin/master.m3u8"><img src="https://i.imgur.com/NoSbmJX.png" title="Scream'IN">
