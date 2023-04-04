@@ -22,6 +22,7 @@
 <a href="https://rplayer.surge.sh/?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-homicide-samsungfr/playlist.m3u8"><img src="https://i.imgur.com/3vQN8uR.png" title="Homicide">
 <a href="https://www.youtube.com/channel/UCl-ipFGVotx_Tu5YWMEZgsg/live"><img src="https://i.imgur.com/EGpzlCk.jpg" title="Kosmo">
 <a href="https://rplayer.surge.sh/?url=https://alchimie-krime-rakuten.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/mYI1QPN.png" title="Krime">
+<a href="https://rplayer.surge.sh/?url=https://www.twitch.tv/lachainedelamer"><img src="https://i.imgur.com/ES4XfsK.png" title="la chaîne de la mer">
 <a href="https://rplayer.surge.sh/?url=https://dwjdtnjykswi0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5htv1a3evaj03-ssai-prd/master.m3u8"><img src="https://i.imgur.com/glF3V3G.png" title="Les 30 histoires">
 <a href="https://rplayer.surge.sh/?url=https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/pIhu7n5.png" title="Luxe TV">
 <a href="https://rplayer.surge.sh/?url=https://amg01255-secomcofites-my-myzen-samsungfr-samsungfr-36vwz.amagi.tv/playlist/amg01255-secomcofites-my-myzen-samsungfr-samsungfr/playlist.m3u8"><img src="https://i.imgur.com/FG1NdK7.png" title="MyZen fit">
