@@ -25,6 +25,7 @@
 <a href="https://rplayer.surge.sh/?url=https://www.twitch.tv/lachainedelamer"><img src="https://i.imgur.com/ES4XfsK.png" title="la chaîne de la mer">
 <a href="https://rplayer.surge.sh/?url=https://dwjdtnjykswi0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5htv1a3evaj03-ssai-prd/master.m3u8"><img src="https://i.imgur.com/glF3V3G.png" title="Les 30 histoires">
 <a href="https://player.castr.com/live_947330308dd911edb85c8181cb9b11a8"><img src="https://i.imgur.com/Sy5cvXV.png" title="L'Esprit Sorcier TV">
+<a href="https://rplayer.surge.sh/?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr/playlist.m3u8"><img src="https://i.imgur.com/xnj7EYU.png" title="Love the Planet">
 <a href="https://rplayer.surge.sh/?url=https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/pIhu7n5.png" title="Luxe TV">
 <a href="https://rplayer.surge.sh/?url=https://amg01255-secomcofites-my-myzen-samsungfr-samsungfr-36vwz.amagi.tv/playlist/amg01255-secomcofites-my-myzen-samsungfr-samsungfr/playlist.m3u8"><img src="https://i.imgur.com/FG1NdK7.png" title="MyZen fit">
 <a href="https://rplayer.surge.sh/?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8"><img src="https://i.imgur.com/ArVLApG.png" title="Nature Time">
@@ -32,6 +33,7 @@
 <a href="https://rplayer.surge.sh/?url=https://alchimie-explorebytvplayer-fr-rakuten.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/rAj7U37.png" title="Rakuten Explore par TVPlayer">
 <a href="https://rplayer.surge.sh/?url=https://alchimie-humanity-documentaries-fr-rakuten.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/XaEamx8.png" title="Rakuten Humanity Documentaries">
 <a href="https://rplayer.surge.sh/?url=https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/GlVriOW.png" title="Rakuten Stories">
+<a href="https://rplayer.surge.sh/?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-reportagespicalife-samsungfr/playlist.m3u8"><img src="https://i.imgur.com/BMWSDIJ.png" title="Reportages by Spica">
 <a href="https://rplayer.surge.sh/?url=https://tntv-samsung-fr.amagi.tv/hls/amagi_hls_data_samsungfr-tntv-samsungfr/CDN/playlist.m3u8"><img src="https://i.imgur.com/xiY62tE.png" title="TNTV">
 <a href="https://rplayer.surge.sh/?url=https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8"><img src="https://i.imgur.com/ZwsG58I.png" title="Travelxp">
 
