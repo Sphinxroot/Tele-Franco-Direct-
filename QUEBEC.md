@@ -82,7 +82,7 @@
 <a href="https://www.youtube.com/channel/UCNKXYT-Nng5LBMUQrZJ9zWA/live"><img src="https://i.imgur.com/NtXDIY3.png" title="Télé-Mag : Québec">
 
   
-## ★★★★★En Débrouillage★★★★★
-<a href="https://www.qub.ca/tvaplus/zeste/en-direct"><img src="https://i.imgur.com/JwCtBze.png" title="Zeste En Débrouillage  Terminer">
+## ★★★★★Je Me Souviens★★★★★
+<a href="https://www.youtube.com/@archeologuevhs1984/videos"><img src="https://i.imgur.com/OXR5358.png" title="Archéologue VHS - Vintage Québecois">
 
 <a href="https://github.com/Sphinxroot/Tele-Franco-Direct-/blob/main/README.md"><img src="https://i.imgur.com/sVksJ9S.png" title="Retour">
