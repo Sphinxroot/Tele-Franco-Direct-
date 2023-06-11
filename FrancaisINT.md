@@ -132,6 +132,7 @@
 "><img src="https://i.imgur.com/WQ2deMs.png" title="Fréquence Novelas">
 <a href="https://rplayer.surge.sh/?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-nashvillefrance-samsungfr/playlist.m3u8"><img src="https://i.imgur.com/Lr0EVJo.png" title="Nashville Channel">
 <a href="https://rplayer.surge.sh/?url=https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/s1hqfCn.png" title="Rakuten Séries">
+<a href="https://rplayer.surge.sh/?url=https://732a989f787242b69e4d2fefa755821b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-fr_Crime/playlist.m3u8"><img src="https://i.imgur.com/qIdHBSY.png" title="Rakuten Series Crime">
 <a href="https://rplayer.surge.sh/?url=https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/CzhRdYu.png" title="Stormcast Novelas TV">
 
 
