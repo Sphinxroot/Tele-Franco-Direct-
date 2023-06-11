@@ -49,6 +49,7 @@
 <a href="https://www.youtube.com/channel/UCil6uAMf2IXD1SkiwZq3xhw/live"><img src="https://i.imgur.com/dP23Wmh.jpg" title="Cats Family">
 <a href="https://www.youtube.com/channel/UCuju5K7RVyqTZ0xVPbb3Zvg/live"><img src="https://i.imgur.com/ab0axN6.jpg" title="DC Kids">
 <a href="https://www.youtube.com/channel/UCProOppuazb9J-GhH0t7dEA/live"><img src="https://i.imgur.com/2Pp87iZ.jpg" title="Dinosaure - Je Suis Un Dinosaure">
+<a href="https://www.youtube.com/channel/UCEXUo0sBf0_w8rnckXuBcFA/live"><img src="https://i.imgur.com/i7lfDkc.jpg" title="DreamWorksTV Français">
 <a href="https://www.youtube.com/channel/UCl0KdGiwyqLJCdu5XMIz_TQ/live"><img src="https://i.imgur.com/Oxr8Ws9.jpg" title="HeyKids">
 <a href="https://www.youtube.com/channel/UC-hyDfujz0SIpqsQIoaGueA/live"><img src="https://i.imgur.com/hv5Br1S.jpg" title="Hot Wheels">
 <a href="https://www.youtube.com/channel/UCgRU1S0M_TbYe0G0O1s4mqg/live"><img src="https://i.imgur.com/noWRxnm.jpg" title="IncrediTales">
