@@ -15,5 +15,8 @@
 ## Call Of Liberty
 <a href="http://www.callofliberty.fr/tv/tv.php"><img src="https://i.imgur.com/Q80KNeb.png" title="Call Of Liberty">
 
+## Connectik TV
+<a href="http://connectiktv.ddns.me/tv/"><img src="https://i.imgur.com/nvTO4oI.png" title="Connectik TV">
+
 ## TelePack
 <a href="https://telepack.net/"><img src="https://i.imgur.com/4szWecb.png" title="TelePack">
