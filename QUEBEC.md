@@ -74,6 +74,7 @@
 <a href="https://rplayer.surge.sh/?url=https://www.twitch.tv/fm93quebec"><img src="https://i.imgur.com/JmcHAnC.png" title="FM93 : Québec">
 <a href="https://rplayer.surge.sh/?url=https://www.twitch.tv/blvd_fm"><img src="https://i.imgur.com/BoLh5rk.png" title="BLVD 102.1 : Québec">
 <a href="https://rplayer.surge.sh/?url=https://www.twitch.tv/quebecreveille"><img src="https://i.imgur.com/4USn2ho.png" title="Québec réveille! : La semaine De 07h30 a 09h30 ">
+<a href="https://www.youtube.com/channel/UC1u7tEGWEYZ5lEoKwn3iWdw/live"><img src="https://i.imgur.com/8AbpoGW.jpg" title="QUB Radio">
 
 
 ## ★★★★★Religion★★★★★
