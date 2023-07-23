@@ -90,5 +90,13 @@
   
 ## ★★★★★Je Me Souviens★★★★★
 <a href="https://www.youtube.com/@archeologuevhs1984/videos"><img src="https://i.imgur.com/OXR5358.png" title="Archéologue VHS - Vintage Québecois">
+<a href="https://www.youtube.com/@422435paquess"><img src="https://i.imgur.com/OEAq2R6.jpg" title="Le Télévidéographe">
+<a href="https://www.youtube.com/results?search_query=nostalgiamania&sp=EgIQAg%253D%253D"><img src="https://i.imgur.com/gURpF0e.jpg" title="NostalgiaMania">
+
+## ★★★★★VOD★★★★★
+<a href="https://www.lafabriqueculturelle.tv/"><img src="https://i.imgur.com/RSIL3We.jpg" title="La Fabrique culturelle">
+<a href="https://www.youtube.com/@meteomedia"><img src="https://i.imgur.com/1Eg2LNI.jpg" title="MétéoMédia">
+<a href="https://www.youtube.com/channel/UCFxJW2dV82Eo-1vvweFRORA"><img src="https://i.imgur.com/piePNQY.jpg" title="NousTV">
+
 
 <a href="https://github.com/Sphinxroot/Tele-Franco-Direct-/blob/main/README.md"><img src="https://i.imgur.com/sVksJ9S.png" title="Retour">
