@@ -97,6 +97,7 @@
 <a href="https://www.lafabriqueculturelle.tv/"><img src="https://i.imgur.com/RSIL3We.jpg" title="La Fabrique culturelle">
 <a href="https://www.youtube.com/@meteomedia"><img src="https://i.imgur.com/1Eg2LNI.jpg" title="MétéoMédia">
 <a href="https://www.youtube.com/channel/UCFxJW2dV82Eo-1vvweFRORA"><img src="https://i.imgur.com/piePNQY.jpg" title="NousTV">
+<a href="https://webtv.coop/"><img src="https://i.imgur.com/8Gq55OI.png" title="La Coop">
 
 
 <a href="https://github.com/Sphinxroot/Tele-Franco-Direct-/blob/main/README.md"><img src="https://i.imgur.com/sVksJ9S.png" title="Retour">
