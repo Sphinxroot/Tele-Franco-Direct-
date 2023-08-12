@@ -76,7 +76,9 @@
 <a href="https://rplayer.surge.sh/?url=https://c3776ebb1c7742cb9c0191b41b8b2432.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_Brefcinema/playlist.m3u8"><img src="https://i.imgur.com/kEIpv2j.png" title="Brefcinema">
 <a href="https://rplayer.surge.sh/?url=https://amg01412-xiaomiasia-cinenanar-xiaomi-6715q.amagi.tv/playlist/amg01412-xiaomiasia-cinenanar-xiaomi/playlist.m3u8"><img src="https://i.imgur.com/NU8bk7n.jpg" title="Ciné Nanar">
 <a href="https://rplayer.surge.sh/?url=https://d5rskh55dewj4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rdfutp26xapou-ssai-prd/master.m3u8"><img src="https://i.imgur.com/fdVbGgS.png" title="Ciné Prime">
+<a href="https://rplayer.surge.sh/?url=https://d29ewsc3hjlpmj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xxbg0vf4x8ts0/master.m3u8"><img src="https://i.imgur.com/cLChZlT.png" title="Ciné Western">
 <a href="https://rplayer.surge.sh/?url=https://diqx5lyj19frh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Emotionelle-FR-prod/master.m3u8"><img src="https://i.imgur.com/iJILk5o.png" title="Emotion'L">
+<a href="https://rplayer.surge.sh/?url=https://d3kwy5wwq7dpr1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5ty5rugo8lr9f/famcl.m3u8"><img src="https://i.imgur.com/bQQm63Q.png" title="Family Club">
 <a href="https://rplayer.surge.sh/?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-moviecentfr-xiaomi/playlist.m3u8"><img src="https://i.imgur.com/tntMcvY.png" title="Movie Central">
 <a href="https://rplayer.surge.sh/?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimefr-xiaomi/playlist.m3u8"><img src="https://i.imgur.com/YoI2vMO.png" title="Mytime Movies">
 <a href="https://rplayer.surge.sh/?url=https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/TA2E9A0.png" title="Rakuten Action">
