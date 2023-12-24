@@ -23,6 +23,8 @@
 
 ## ★★★★★Communautaire★★★★★
 <a href="https://www.youtube.com/user/bellahdjel/live"><img src="https://i.imgur.com/duDrgvb.png" title="Belmediatv - Chaîne de Télévision Kabyle : Montréal">
+<a href="https://player.castr.com/live_f88ae0808c9911ee9d20297cbe04ce6d"><img src="https://i.imgur.com/zOdI1tQ.png" title="Csur la télé ch 1 - Vaudreuil-Dorion">
+<a href="https://player.castr.com/live_ee53b1d08d9511ee89c1a3cd362d5ce1"><img src="https://i.imgur.com/zOdI1tQ.png" title="Csur la télé ch 2 - Vaudreuil-Dorion">
 <a href="https://www.youtube.com/channel/UCE9UCGH15M9HRQQqe_3C0jw/live"><img src="https://i.imgur.com/hKfoCaC.png" title="CTB-TV : Lanaudière">
 <a href="https://www.youtube.com/channel/UCj7mjJ8KYA7tLly9RUAb6XA/live"><img src="https://i.imgur.com/uVA7Wic.png" title="MÉDIAT - TVC7 : Abitibi">
 <a href="https://rplayer.surge.sh/?url=http://66.11.33.44:8081/live/TCF/playlist.m3u8"><img src="https://i.imgur.com/ZssF9k0.png" title="TCFTV : Montréal">
