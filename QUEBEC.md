@@ -67,7 +67,7 @@
 <a href="https://rplayer.surge.sh/?url=https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8"><img src="https://i.imgur.com/jI8ockr.png" title="TVA">
 
 
-## Humour
+## ★★★★★Humour★★★★★
 <a href="https://www.twitch.tv/sousecoute"><img src="https://i.imgur.com/WhIcr0U.png" title="SousEcoute">
 
 ## ★★★★★Multiculturel★★★★★
