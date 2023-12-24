@@ -28,6 +28,7 @@
 <a href="https://rplayer.surge.sh/?url=http://66.11.33.44:8081/live/TCF/playlist.m3u8"><img src="https://i.imgur.com/ZssF9k0.png" title="TCFTV : Montréal">
 <a href="https://www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live"><img src="https://i.imgur.com/UAyZSSb.png" title="Cablevision TVC9 : Abitibi-Témiscamingue">
 <a href="https://rplayer.surge.sh/?url=https://www.twitch.tv/tvctklive"><img src="https://i.imgur.com/ghf0FAa.png" title="Témiscaming-Kipawa (tvcTK)">
+<a href="https://player.castr.com/live_d6983bc091e611edbddd7fe8982d8daf"><img src="https://i.imgur.com/fNbwRDt.png" title="TVRS : Longueuil">
 <a href="https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live"><img src="https://i.imgur.com/HNb0yui.png" title="TV Témis : Notre-Dame-du-Nord">
 
 
