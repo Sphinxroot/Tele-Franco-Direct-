@@ -64,7 +64,7 @@
 <a href="https://rplayer.surge.sh/?url=https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_3000.m3u8"><img src="https://i.imgur.com/vaSCarL.png" title="ICI Télé Saskatchewan">
 <a href="https://rplayer.surge.sh/?url=https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_3000.m3u8"><img src="https://i.imgur.com/vaSCarL.png" title="ICI Télé Alberta">
 <a href="https://rplayer.surge.sh/?url=https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_3000.m3u8"><img src="https://i.imgur.com/vaSCarL.png" title="ICI Télé CB-Yukon">
-<a href="https://rplayer.surge.sh/?url=https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8"><img src="https://i.imgur.com/vCqF1Kb.png" title="Noovo">
+<a href="https://www.noovo.ca/en-direct?tab=en-direct"><img src="https://i.imgur.com/vCqF1Kb.png" title="Noovo">
 <a href="https://rplayer.surge.sh/?url=https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8"><img src="https://i.imgur.com/jI8ockr.png" title="TVA">
 
 
