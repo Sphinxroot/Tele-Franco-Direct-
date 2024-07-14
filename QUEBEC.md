@@ -3,8 +3,6 @@
 
 <a href="https://fr.wikipedia.org/wiki/Qu%C3%A9bec"><img src="https://i.imgur.com/GmpAzAe.png" title="Québec">
 
-<a href="https://rplayer.surge.sh/?url=https://temoindirect.akamaized.net/no/V-MOICIE/V-MOICIE.isml/V-MOICIE.m3u8"><img src="https://i.imgur.com/cM9S4Iy.png" title="Témoin (En Débrouillage)">
-<a href="https://rplayer.surge.sh/?url=https://vmediazeste.akamaized.net/no/V-ZESTE/V-ZESTE.isml/V-ZESTE.m3u8"><img src="https://i.imgur.com/fjSgz9J.jpeg" title="Zeste (En Débrouillage)">
 
 ## ★★★★★Actualités★★★★★
 <a href="https://rplayer.surge.sh/?url=https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8"><img src="https://i.imgur.com/43dfVtF.png" title="CBC Montréal">
@@ -48,6 +46,8 @@
 
 ## ★★★★★Films★★★★★
 <a href="https://www.youtube.com/channel/UC5gfYXsS_p1EV5e42a2RKjQ/live"><img src="https://i.imgur.com/AjKctQZ.jpg" title="VVS Films Québec">
+<a href="https://rplayer.surge.sh/?url=https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8"><img src="https://i.imgur.com/ytygMFT.png" title="Noovo Cinéma">
+
 
 
 ## ★★★★★Généraliste★★★★★
@@ -65,11 +65,13 @@
 <a href="https://rplayer.surge.sh/?url=https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_3000.m3u8"><img src="https://i.imgur.com/vaSCarL.png" title="ICI Télé Alberta">
 <a href="https://rplayer.surge.sh/?url=https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_3000.m3u8"><img src="https://i.imgur.com/vaSCarL.png" title="ICI Télé CB-Yukon">
 <a href="https://www.noovo.ca/en-direct?tab=en-direct"><img src="https://i.imgur.com/vCqF1Kb.png" title="Noovo">
+<a href="https://rplayer.surge.sh/?url=https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8"><img src="https://i.imgur.com/eaFD9rq.png" title="Noovo Téléréalités">
 <a href="https://rplayer.surge.sh/?url=https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8"><img src="https://i.imgur.com/jI8ockr.png" title="TVA">
 
 
 ## ★★★★★Humour★★★★★
 <a href="https://www.twitch.tv/sousecoute"><img src="https://i.imgur.com/WhIcr0U.png" title="SousEcoute">
+<a href="https://rplayer.surge.sh/?url=https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8"><img src="https://i.imgur.com/xB0BM7z.png" title="Noovo Comédies">
 
 ## ★★★★★Multiculturel★★★★★
 <a href="https://rplayer.surge.sh/?url=https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8"><img src="https://i.imgur.com/Cl0wRCj.png" title="ICI Télévision Montréal">
