@@ -6,6 +6,9 @@
 ## Français International 
 <a href="https://github.com/Sphinxroot/Tele-Franco-Direct-/blob/main/FrancaisINT.md"><img src="https://i.imgur.com/C6tV1sY.png" title="Francais International">
 
+## RMC BMF Play
+<a href="https://github.com/Sphinxroot/Tele-Franco-Direct-/blob/main/rmcbfmplay.md"><img src="https://i.imgur.com/OCs3iIQ.png" title="RMC BMF Play">
+
 ## TNT en Direct
 <a href="https://github.com/Sphinxroot/Tele-Franco-Direct-/blob/main/TNT.md"><img src="https://i.imgur.com/tydEzFb.png" title="TNT en Direct Avec DVR">
 
