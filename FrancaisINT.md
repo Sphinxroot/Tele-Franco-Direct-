@@ -19,6 +19,7 @@
 
 ## ★★★★★Documentaires★★★★★
 <a href="https://rplayer.surge.sh/?url=https://d2lkb3wuytha2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1sf8g3d5udmzh-ssai-prd/master.m3u8"><img src="https://i.imgur.com/V9f49qQ.png" title="Destination Nature">
+<a href="https://rplayer.surge.sh/?url=https://amg01796-amg01796c4-samsung-fr-3183.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-docstory-samsungfr/playlist.m3u8"><img src="https://i.imgur.com/vrSrwW3.png" title="Doc Story">
 <a href="https://rplayer.surge.sh/?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-enquetesdechoc-samsungfr/playlist.m3u8"><img src="https://i.imgur.com/sKqvqaU.png" title="Enquêtes de Choc">
 <a href="https://rplayer.surge.sh/?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-homicide-samsungfr/playlist.m3u8"><img src="https://i.imgur.com/3vQN8uR.png" title="Homicide">
 <a href="https://www.youtube.com/channel/UCl-ipFGVotx_Tu5YWMEZgsg/live"><img src="https://i.imgur.com/EGpzlCk.jpg" title="Kosmo">
