@@ -12,6 +12,9 @@
 ## Call Of Liberty
 <a href="http://www.callofliberty.fr/tv/tv.php"><img src="https://i.imgur.com/Q80KNeb.png" title="Call Of Liberty">
 
+## Tubi TV Films en Français
+<a href="https://tubitv.com/category/french_movies_and_series"><img src="https://i.imgur.com/yqjLqFy.png" title="Tubi TV VOD Français">
+
 ## Suisse 
 <a href="https://github.com/Sphinxroot/Tele-Franco-Direct-/blob/main/SUISSE.md"><img src="https://i.imgur.com/NTgRGX9.png" title="Suisse">
 
