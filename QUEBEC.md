@@ -24,7 +24,7 @@
 <a href="https://www.youtube.com/user/bellahdjel/live"><img src="https://i.imgur.com/duDrgvb.png" title="Belmediatv - Chaîne de Télévision Kabyle : Montréal">
 <a href="https://player.castr.com/live_f88ae0808c9911ee9d20297cbe04ce6d"><img src="https://i.imgur.com/zOdI1tQ.png" title="Csur la télé ch 1 - Vaudreuil-Dorion">
 <a href="https://player.castr.com/live_ee53b1d08d9511ee89c1a3cd362d5ce1"><img src="https://i.imgur.com/zOdI1tQ.png" title="Csur la télé ch 2 - Vaudreuil-Dorion">
-<a href="https://www.youtube.com/channel/UCE9UCGH15M9HRQQqe_3C0jw/live"><img src="https://i.imgur.com/hKfoCaC.png" title="CTB-TV : Lanaudière">
+<a href="https://www.youtube.com/channel/UCnLHq8falZ_amWrLZx72t3g/live"><img src="https://i.imgur.com/hKfoCaC.png" title="CTB-TV : Lanaudière">
 <a href="https://www.youtube.com/channel/UCj7mjJ8KYA7tLly9RUAb6XA/live"><img src="https://i.imgur.com/uVA7Wic.png" title="MÉDIAT - TVC7 : Abitibi">
 <a href="https://www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live"><img src="https://i.imgur.com/UAyZSSb.png" title="Cablevision TVC9 : Abitibi-Témiscamingue">
 <a href="https://www.youtube.com/channel/UCbpWeJEG79mzbvZQMK3-BjA/live"><img src="https://i.imgur.com/mFfzONT.jpg" title="TVC Argenteuil : Lachute">
