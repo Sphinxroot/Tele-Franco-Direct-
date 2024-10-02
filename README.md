@@ -18,9 +18,6 @@
 ## Tubi TV Films en Français
 <a href="https://tubitv.com/category/french_movies_and_series"><img src="https://i.imgur.com/yqjLqFy.png" title="Tubi TV VOD Français">
 
-## Suisse 
-<a href="https://github.com/Sphinxroot/Tele-Franco-Direct-/blob/main/SUISSE.md"><img src="https://i.imgur.com/NTgRGX9.png" title="Suisse">
-
 ## TelePack
 <a href="https://telepack.net/"><img src="https://i.imgur.com/4szWecb.png" title="TelePack">
 
