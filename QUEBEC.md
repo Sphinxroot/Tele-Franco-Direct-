@@ -96,7 +96,7 @@
 ## ★★★★★Télé Magazine★★★★★
 <a href="https://www.youtube.com/channel/UCSiM-2Rl7d95puhwt0gUL-w/live"><img src="https://i.imgur.com/DO3wsrw.jpg" title="derrierelevolant.net">
 <a href="https://rplayer.surge.sh/?url=https://www.twitch.tv/radiotalbot"><img src="https://i.imgur.com/GDTp6FD.png" title="RadioTalbot - (Mardi @ Jeudi . 20h00)">
-<a href="https://rplayer.surge.sh/?url=https://www.twitch.tv/telemagtv"><img src="https://i.imgur.com/NtXDIY3.png" title="Télé-Mag : Québec">
+<a href="https://www.youtube.com/watch?v=S1ee5OYQJ1Q"><img src="https://i.imgur.com/NtXDIY3.png" title="Télé-Mag : Québec">
 
   
 ## ★★★★★Je Me Souviens★★★★★
