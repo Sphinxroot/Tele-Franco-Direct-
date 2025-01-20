@@ -38,7 +38,7 @@
 
 ## ★★★★★Éducatif★★★★★
 <a href="https://rplayer.surge.sh/?url=https://hls.savoir.media/live/stream.m3u8"><img src="https://i.imgur.com/ybYDwaD.png" title="Canal Savoir">
-<a href="https://rplayer.surge.sh/?url=https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8"><img src="https://i.imgur.com/aUVOxIE.png" title="Télé Québec">
+<a href="https://rplayer.surge.sh/?url=https://bcovlive-a.akamaihd.net/4b1c462c86094bae93b65adc84e43afc/us-west-2/6101674910001/playlist.m3u8"><img src="https://i.imgur.com/aUVOxIE.png" title="Télé Québec">
 
 
 ## ★★★★★Ethnique★★★★★
