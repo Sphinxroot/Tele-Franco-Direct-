@@ -83,7 +83,7 @@
 
 ## ★★★★★Radio★★★★★
 <a href="https://www.youtube.com/channel/UCUHhoftNnYfmFp1jvSavB-Q/live"><img src="https://i.imgur.com/a3DDO3X.jpg" title="Funky Way FM">
-<a href="https://rplayer.surge.sh/?url=https://media1.radioservers.biz:1936/cnv/cnv/playlist.m3u8"><img src="https://i.imgur.com/kHsF7Vg.png" title="CNV - Radio Numérique">
+<a href="https://rplayer.surge.sh/?url=https://www.radiovideoserver.com:19360/cnv/cnv.m3u8"><img src="https://i.imgur.com/kHsF7Vg.png" title="CNV - Radio Numérique">
 <a href="https://rplayer.surge.sh/?url=https://www.twitch.tv/fm93quebec"><img src="https://i.imgur.com/JmcHAnC.png" title="FM93 : Québec">
 <a href="https://rplayer.surge.sh/?url=https://www.twitch.tv/blvd_fm"><img src="https://i.imgur.com/BoLh5rk.png" title="BLVD 102.1 : Québec">
 <a href="https://rplayer.surge.sh/?url=https://www.twitch.tv/quebecreveille"><img src="https://i.imgur.com/4USn2ho.png" title="Québec réveille! : La semaine De 07h30 a 09h30 ">
