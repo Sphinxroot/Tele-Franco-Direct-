@@ -99,6 +99,12 @@
 
 ## ★★★★★Sport★★★★★
 <a href="https://www.youtube.com/channel/UC5xSlcCPPid1BcEgggJPoeg/live"><img src="https://i.imgur.com/vH7i0ys.jpeg" title="BPM Sports">
+<a href="https://daddylive.dad/stream/stream-839.php"><img src="https://i.imgur.com/h7cnCDp.png" title="RDS">
+<a href="https://daddylive.dad/stream/stream-840.php"><img src="https://i.imgur.com/BFq3j7m.png" title="RDS 2">
+<a href="https://daddylive.dad/stream/stream-841.php"><img src="https://i.imgur.com/6TV0moy.png" title="RDS Info">
+<a href="https://daddylive.dad/stream/stream-833.php"><img src="https://i.imgur.com/BYWR6ur.png" title="TVA Sport">
+<a href="https://daddylive.dad/stream/stream-834.php"><img src="https://i.imgur.com/tLgJI3t.png" title="TVA Sport 2">
+
 
 ## ★★★★★Télé Magazine★★★★★
 <a href="https://www.youtube.com/channel/UCSiM-2Rl7d95puhwt0gUL-w/live"><img src="https://i.imgur.com/DO3wsrw.jpg" title="derrierelevolant.net">
