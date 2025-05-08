@@ -23,3 +23,6 @@
 
 ## TNT en Direct
 <a href="https://github.com/Sphinxroot/Tele-Franco-Direct-/blob/main/TNT.md"><img src="https://i.imgur.com/tydEzFb.png" title="TNT en Direct Avec DVR">
+
+## Vavoo
+<a href="https://vavoo.to/"><img src="https://i.imgur.com/Ic0NB3H.png" title="Vavoo">
