@@ -12,6 +12,7 @@
 <a href="https://rplayer.surge.sh/?url=https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8"><img src="https://i.imgur.com/4UPQNDv.png" title="ICI RDI option 2"> 
 <a href="https://rplayer.surge.sh/?url=https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8"><img src="https://i.imgur.com/hRln6Kw.png" title="LCN">
 <a href="https://www.youtube.com/channel/UCVSWLtm3ijS-rTwa__Ww2Rg/live"><img src="https://i.imgur.com/4P48wOr.jpg" title="Le Devoir (Lorsque Diffusion)">
+<a href="https://www.youtube.com/channel/UClxaaAzHu1B5EoTtBYea7ig/live"><img src="https://i.imgur.com/HT24iuR.jpeg" title="Radio-Canada Info">
 
 
 ## ★★★★★Affaires Publiques★★★★★
@@ -38,7 +39,8 @@
 
 ## ★★★★★Éducatif★★★★★
 <a href="https://rplayer.surge.sh/?url=https://hls.savoir.media/live/stream.m3u8"><img src="https://i.imgur.com/ybYDwaD.png" title="Canal Savoir">
-<a href="https://rplayer.surge.sh/?url=https://bcovlive-a.akamaihd.net/b7988e7f33b34cf2bf86a766afcadd3c/us-west-2/6101674910001/playlist_wv.m3u8"><img src="https://i.imgur.com/aUVOxIE.png" title="Télé Québec">
+<a href="https://telequebec.tv/regarder/en-direct/telequebec"><img src="https://i.imgur.com/aUVOxIE.png" title="Télé Québec">
+<a href="https://telequebec.tv/regarder/en-direct/jeunesse"><img src="https://i.imgur.com/yKN8B7u.png" title="Télé Québec Jeunesse">
 
 
 ## ★★★★★Ethnique★★★★★
