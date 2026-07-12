@@ -68,7 +68,7 @@
 <a href="https://rplayer.surge.sh/?url=https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_3000.m3u8"><img src="https://i.imgur.com/vaSCarL.png" title="ICI Télé Saskatchewan">
 <a href="https://rplayer.surge.sh/?url=https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_3000.m3u8"><img src="https://i.imgur.com/vaSCarL.png" title="ICI Télé Alberta">
 <a href="https://rplayer.surge.sh/?url=https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_3000.m3u8"><img src="https://i.imgur.com/vaSCarL.png" title="ICI Télé CB-Yukon">
-<a href="https://www.noovo.ca/en-direct?tab=en-direct"><img src="https://i.imgur.com/vCqF1Kb.png" title="Noovo">
+<a href="https://www.crave.ca/en/live?channel=montreal&group=noovo"><img src="https://i.imgur.com/vCqF1Kb.png" title="Noovo  +COMPTE GRATUIS">
 <a href="https://rplayer.surge.sh/?url=https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8"><img src="https://i.imgur.com/eaFD9rq.png" title="Noovo Téléréalités">
 <a href="https://rplayer.surge.sh/?url=https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8"><img src="https://i.imgur.com/jI8ockr.png" title="TVA">
 <a href="https://tvaabitibi.ca/bulletin-en-direct/"><img src="https://i.imgur.com/1pupOcl.png" title="TVA Abitibi">
