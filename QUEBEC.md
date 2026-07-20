@@ -42,7 +42,7 @@
 <a href="https://telequebec.tv/regarder/en-direct/telequebec"><img src="https://i.imgur.com/aUVOxIE.png" title="Télé Québec">
 <a href="https://telequebec.tv/regarder/en-direct/jeunesse"><img src="https://i.imgur.com/yKN8B7u.png" title="Télé Québec Jeunesse">
 <a href="https://rplayer.surge.sh/?url=https://amagi-streams.akamaized.net/hls/live/2120485/rcjeunesse/master.m3u8"><img src="https://i.imgur.com/1D8pVee.png" title="La chaîne Jeunesse ">
-<a href="https://amagi-streams.akamaized.net/hls/live/2120486/rclagentjean/master.m3u8"><img src="https://i.imgur.com/7v5kIBP.png" title="La chaîne L'Agent Jean! ">
+<a href="https://rplayer.surge.sh/?url=https://amagi-streams.akamaized.net/hls/live/2120486/rclagentjean/master.m3u8"><img src="https://i.imgur.com/7v5kIBP.png" title="La chaîne L'Agent Jean! ">
 
 ## ★★★★★Ethnique★★★★★
 <a href="https://www.youtube.com/channel/UCAEDRKAof_vZLRLVoyIJpgw/live"><img src="https://i.imgur.com/PXI6yHX.png" title="Canadian Pinoy Radio-Montreal">
